@@ -1,6 +1,6 @@
 # smp-sudoku
 
->! Fisierele sursa ale proiectului pot fi descarcate de aici: https://bit.ly/3LvEe1G
+> Fisierele sursa ale proiectului pot fi descarcate de aici: https://bit.ly/3LvEe1G
 
 ## Scurta descriere
 
