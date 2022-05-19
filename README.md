@@ -12,7 +12,7 @@ In cadrul acestui proiect am dezvoltat un joc tip Sudoku, folosind limabajul de 
 
 Aplicatia pune la dispozitia utilizatorului urmatoarele functionalitati:
 1. Selectarea nivelului de dificultate, incepand cu Very Easy pana la Expert;
-2. Puneare jocului pe pauza si reluarea acestuia de unde a ramas, dar si resetarea jocului in orice moment;
+2. Punerea jocului pe pauza si reluarea acestuia de unde a ramas, dar si resetarea jocului in orice moment;
 3. Introducerea notitelor, adica a unor valori posibile ce pot fi plasate intr-o casuta, acestea fiind plasate mai mici, dupa cum se poate vedea in imaginile de mai jos;
 4. Afisarea notitelor -> o data cu generarea tablei de joc, se genereaza si o serie de notite care sunt initial ascunse, insa utilizatorul le poate face vizibile;
 5. Afisarea solutiei in orice moment;
