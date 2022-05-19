@@ -1,5 +1,7 @@
 # smp-sudoku
 
+>! Fisierele sursa ale proiectului pot fi descarcate de aici: https://bit.ly/3LvEe1G
+
 ## Scurta descriere
 
 In cadrul acestui proiect am dezvoltat un joc tip Sudoku, folosind limabajul de programare C# si un subsistem grafic numit WPF, cu ajutorul caruia am creat o interfata vizuala mai placuta pentru utilizator. La final, am botezat jocul MindGames.
@@ -35,6 +37,3 @@ Crearea timer-urului:
 ![image](https://user-images.githubusercontent.com/84337335/169356403-eee10768-56ad-42d8-a5ed-c39fe2e63b94.png)
 
 ![image](https://user-images.githubusercontent.com/84337335/169356510-1744f98a-3780-452e-8709-c611b7f85aad.png)
-
-Fisierele sursa ale proiectului pot fi descarcate de aici: https://bit.ly/3LvEe1G
-
